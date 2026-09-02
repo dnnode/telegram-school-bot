@@ -2,7 +2,7 @@
 
 MIT License
 
-Copyright (c) 2025 [**Dmitry D.**](https://github.com/dkjrz)
+Copyright (c) 2025 [**Dmytro Nikolaichuk**](https://github.com/dnnode)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
