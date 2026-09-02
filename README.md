@@ -86,7 +86,7 @@ python bot.py
 
 ## 📄 Ліцензія
 
-Цей проєкт розповсюджується за ліцензією [MIT](https://github.com/dkjrz/telegram-school-bot/blob/main/!%20LICENSE/LICENSE.md).
+Цей проєкт розповсюджується за ліцензією [MIT](https://github.com/dnnode/telegram-school-bot/blob/main/!%20LICENSE/LICENSE.md).
 
 ---
 
